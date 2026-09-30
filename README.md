@@ -4,6 +4,10 @@
 
 LinkLens is an educational, beginner-focused web app that turns a website's publicly visible connection, redirect, URL, and security-header information into a simple **Website Security Signal**.
 
+## Live Demo
+
+[Try LinkLens in production](https://link-lens-kohl.vercel.app)
+
 ## Overview
 
 Enter a public website address and LinkLens makes a safe, non-invasive request to inspect information the website already sends to visitors. The result is a plain-language report covering HTTPS, redirect behavior, URL characteristics, and selected security headers.
